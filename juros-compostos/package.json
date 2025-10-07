@@ -1,0 +1,14 @@
+{
+  "name": "juros-compostos",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^6.4.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
